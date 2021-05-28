@@ -1,0 +1,7 @@
+﻿Indicator_type,Data,Note
+Description,IOCs from Solarwinds attack,
+
+file_path_name,C:\windows\syswow64\netsetupsvc.dll,DCIT - Teste Threat Hunting_Type: FilePathName
+domain,google.com,DCIT - Teste Threat Hunting_Type: DNS
+ip,167.114.213.199,DCIT - Teste Threat Hunting_Type: IP
+sha256,1817a5bf9c01035bcf8a975c9f1d94b0ce7f6a200339485d8f93859f8f6d730c,DCIT - Teste Threat Hunting_Type: Hash SHA256
