@@ -1,12 +1,11 @@
 ﻿Indicator_type,Data,Note
 Description,IOCs from Solarwinds attack,
 
-file_path_name,C:\windows\syswow64\netsetupsvc.dll,DCIT - Teste Threat Hunting_Type: FilePathName
-domain,google.com,DCIT - Teste Threat Hunting_Type: DNS
-ip,167.114.213.199,DCIT - Teste Threat Hunting_Type: IP
-sha256,1817a5bf9c01035bcf8a975c9f1d94b0ce7f6a200339485d8f93859f8f6d730c,DCIT - Teste Threat Hunting_Type: Hash SHA256
-sha256,b18426f62797d6101be8fef1c1f69ce4383f40360f04974cfa196b68fe74687e,DCIT - Teste Threat Hunting_Type: Hash SHA256
-sha256,af4f38395541c0315b188a2c3f63effd77011f5d0c21381a19ee9ed3224f9615,DCIT - Teste Threat Hunting_Type: Hash SHA256
-sha256,2591dec1ff77b3ea46185e1f53f95ad5f75bc9e9edb682d29b6d9c5ec5a2eddb,DCIT - Teste Threat Hunting_Type: Hash SHA256
-sha256,31919cd9d7d5232ad719a165fbe3e471bdaf06a51daf75a087af9a5d691dc772,DCIT - Teste Threat Hunting_Type: Hash SHA256 - TEAMS
-sha256,d3743d518f1981e5cec64ea828cc30a218037b1774991828869572fa82a598c2,DCIT - Teste Threat Hunting_Type: Hash SHA256 - CHROME
+file_path_name,C:\Program Files\Google\Chrome\Application\chrome.exe,DCIT - HIT Threat Hunting_Type: FilePathName - Chrome.exe
+domain,google.com,DCIT - HIT Threat Hunting_Type: DNS
+domain,globo.com,DCIT - HIT Threat Hunting_Type: DNS
+domain,uol.com.br,DCIT - HIT Threat Hunting_Type: DNS
+ip,167.114.213.199,DCIT - HIT Threat Hunting_Type: IP
+sha256,3a7dc9c8175dd5ea4492ec75397adfccb193a6b323a321e7963580512c2505d6,DCIT - HIT Threat Hunting_Type: Hash SHA256 - SophosSetup.exe
+sha256,abc1c6d8979238e64a5f64fe811a0a0697fcd94ee65b0b5703517fef0d4f4354,DCIT - HIT Threat Hunting_Type: Hash SHA256 - PlanilhaExcel.xlsx
+sha256,61689dcf380e19f56e253f438b76537a6d332b20302278fb719e5f868587e58e,DCIT - HIT Threat Hunting_Type: Hash SHA256 - Chrome.exe
