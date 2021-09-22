@@ -10,3 +10,4 @@ ip,139.45.197.237,DCIT - HIT Threat Hunting_Type: IP
 sha256,3a7dc9c8175dd5ea4492ec75397adfccb193a6b323a321e7963580512c2505d6,DCIT - HIT Threat Hunting_Type: Hash SHA256 - SophosSetup.exe
 sha256,abc1c6d8979238e64a5f64fe811a0a0697fcd94ee65b0b5703517fef0d4f4354,DCIT - HIT Threat Hunting_Type: Hash SHA256 - PlanilhaExcel.xlsx
 sha256,61689dcf380e19f56e253f438b76537a6d332b20302278fb719e5f868587e58e,DCIT - HIT Threat Hunting_Type: Hash SHA256 - Chrome.exe
+sha256,61f897ed69646e0509f6802fb2d7c5e88c3e3b93c4ca86942e24d203aa878863, DCIT - HIT Threat Hunting_Type: Hash SHA256 - SharpHound
